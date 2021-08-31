@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas Darela!
 
-- 🔭 Hoje trabalho como desenvolvedor web
-- 🌱 Estudando JavaScript, React, NextJs
+- 🔭 Desenvolvedor web
+- 🌱 Estudando JavaScript e Typescript
 - 😄 Pronouns: ele/dele
 
 <div>
